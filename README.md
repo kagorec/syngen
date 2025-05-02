@@ -1,4 +1,4 @@
-# SynGen — A Tool for Finding and Analyzing n-grams in Text Files
+# SynGen — Multi-threaded search and analysis of n-grams in text files
 
 ## Description
 SynGen is a professional text analysis tool that recursively processes files in specified directories, extracts and counts the occurrence statistics of phrases (n-grams). Thanks to its use of multiprocessing and advanced filtering system, the script is ideal for processing large volumes of text data and will be useful for linguists, content analysts, SEO specialists, and researchers in the field of NLP.
