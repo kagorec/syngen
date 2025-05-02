@@ -1,0 +1,2 @@
+# syngen
+Synonimize generator
